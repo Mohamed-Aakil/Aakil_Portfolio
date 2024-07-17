@@ -1,0 +1,130 @@
+body{
+    margin: 0 auto;
+    width: 100%;
+    background-color:black;
+    color: white;
+    font-family: sans-serif;
+    justify-content: center;
+
+}
+
+#intro{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.dataanalyst{
+    font-size:50px;
+    letter-spacing: 15px;
+    font-weight:lighter;
+}
+
+.projectlist{
+    font-size:50px;
+    letter-spacing: 15px;
+    font-weight:lighter;
+    width: 80%;
+}
+
+.port{
+    font-size:100px;
+    letter-spacing: 15px;
+    font-weight:700;
+    margin-top: 30px;
+}
+
+.introduction{
+    font-size:20px;
+    letter-spacing: 15px;
+    font-weight:800;
+    margin-top: 30px;
+}
+
+#intropara{
+    margin-top: 100px;
+    margin-left:50px;
+}
+.name{
+    font-size:80px;
+    font-weight:lighter;
+    letter-spacing: 5px;
+}
+.para1{
+    margin-top: 30px;
+    font-size:xx-large;
+    margin-left:100px;
+    font-weight:100;
+    letter-spacing: 4px;
+    line-height: 50px;
+}
+
+.bulletlist{
+    margin-top: 30px;
+    font-size:x-large;
+    margin-left:200px;
+    font-weight:100;
+    letter-spacing: 4px;
+    line-height: 50px;
+}
+
+.baslist{
+    margin-top: 10px;
+    font-size:x-large;
+    margin-left:150px;
+    font-weight:100;
+    letter-spacing: 4px;
+    line-height: 50px;
+}
+
+.review{
+    margin-top: 30px;
+    font-size:xx-large;
+    font-weight:100;
+    letter-spacing: 4px;
+    line-height: 50px;
+    background-color: #00a99f;
+    border:1px solid #00a99f;
+    width:70%;
+    padding: 30px;
+    margin-left: 200px;
+}
+
+.getintouch{
+    margin-top: 30px;
+    font-size:xx-large;
+    font-weight: lighter;
+    letter-spacing: 4px;
+    line-height: 50px;
+    width:70%;
+    margin-left: 100px;
+}
+
+#Aboutpage{
+    display: flex;
+    margin-left:50px;
+}
+
+
+.info{
+    margin-top: 10px;
+    font-size:30px;
+    letter-spacing:5px;
+    font-weight:lighter;
+    display: flex;
+    margin-left: 200px;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+    color:#01a9a0;
+ }
+
+hr{
+    margin: 50px;
+}
+
+.contactsinfo{
+    margin-top: 40px;
+    line-height: 40px;
+}
